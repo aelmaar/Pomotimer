@@ -1,3 +1,13 @@
+### The pomotimer app was built by React and Tailwind css.
+
+Hi, I am Anouar and I am a web developer.\
+I built this pomodoro timer online for myself and also for fun, I want it simple and easy to use without more functionality because I used it only one thing when I try to learn something new especially the theoric one or the boring one :), but the essentiel functionalities of pomodoro technic is well done .\
+## Tools used
+- React (useState,useEffect,useRef)
+- Tailwind css (first time tried it and in one word (amazing))
+- localStorage web api
+I hope you enjoyed while using the app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pomotimer/static/css/main.0e61c305.css",
+    "main.js": "/pomotimer/static/js/main.fcc35bf0.js",
+    "static/js/787.94733a38.chunk.js": "/pomotimer/static/js/787.94733a38.chunk.js",
+    "static/media/alarm-clock.mp3": "/pomotimer/static/media/alarm-clock.eaffe612ceda64084758.mp3",
+    "static/media/apple.png": "/pomotimer/static/media/apple.7fca2d96316d644e9731.png",
+    "static/media/button.mp3": "/pomotimer/static/media/button.1f62b2108de54852a2f6.mp3",
+    "index.html": "/pomotimer/index.html",
+    "main.0e61c305.css.map": "/pomotimer/static/css/main.0e61c305.css.map",
+    "main.fcc35bf0.js.map": "/pomotimer/static/js/main.fcc35bf0.js.map",
+    "787.94733a38.chunk.js.map": "/pomotimer/static/js/787.94733a38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e61c305.css",
+    "static/js/main.fcc35bf0.js"
+  ]
+}

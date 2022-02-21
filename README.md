@@ -5,7 +5,7 @@ I built this pomodoro timer online for myself and also for fun, I want it simple
 ## Tools used
 - React (useState,useEffect,useRef)
 - Tailwind css (first time tried it and in one word (amazing))
-- localStorage web api
+- localStorage web api\
 I hope you enjoyed while using the app.
 
 # Getting Started with Create React App

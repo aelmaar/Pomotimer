@@ -1,7 +1,7 @@
 ### The pomotimer app was built by React and Tailwind css.
 
 Hi, I am Anouar and I am a web developer.\
-I built this pomodoro timer online for myself and also for fun, I want it simple and easy to use without more functionality because I used it only one thing when I try to learn something new especially the theoric one or the boring one :), but the essentiel functionalities of pomodoro technic is well done .\
+I built this pomodoro timer online for myself and also for fun, I want it simple and easy to use without more functionality because I used it only one thing when I try to learn something new especially the theoric one or the boring one :), but the essentiel functionalities of pomodoro technic are well done .\
 I hope you will enjoy the app.
 - My Linkedin account: https://www.linkedin.com/in/anouarelmaaroufi/
 - My twitter account: https://twitter.com/AnouarMaaroufi

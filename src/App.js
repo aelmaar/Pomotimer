@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import Pomodoro from "./components/Pomodoro";
 import Setting from "./components/Setting";
 import alarm from "./audioclips/alarm-clock.mp3";
-import { notification } from "./utility/notification.js";
 import { format } from "./utility/format.js";
 import button from "./audioclips/button.mp3";
 import "./App.css";
@@ -169,7 +168,6 @@ function App() {
             document.title = `${format(data["shortBreak"])}:${format(
               seconds
             )} / POMOTIMER`;
-            notification();
           } else if (
             realTimer === "shortBreak" &&
             timer === 0 &&
